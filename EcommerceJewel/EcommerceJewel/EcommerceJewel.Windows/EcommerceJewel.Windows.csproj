@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{206CC19A-9577-4ABF-9122-C6AFFFBD6C63}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EcommerceJewel</RootNamespace>
+    <AssemblyName>EcommerceJewel.Windows</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SynthesizeLinkMetadata>true</SynthesizeLinkMetadata>
+    <PackageCertificateKeyFile>EcommerceJewel.Windows_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <Folder Include="Strings\en-US\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Common\NavigationHelper.cs" />
+    <Compile Include="Common\ObservableDictionary.cs" />
+    <Compile Include="Common\RelayCommand.cs" />
+    <Compile Include="Common\SuspensionManager.cs" />
+    <Compile Include="DataModel\JewelryDataSource.cs" />
+    <Compile Include="EnableLiveTile\Common.cs" />
+    <Compile Include="EnableLiveTile\ContentInterfaces.cs" />
+    <Compile Include="EnableLiveTile\CreateLiveTile.cs" />
+    <Compile Include="EnableLiveTile\TileContent.cs" />
+    <Compile Include="HubPage.xaml.cs">
+      <DependentUpon>HubPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MyCartPage.xaml.cs">
+      <DependentUpon>MyCartPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SectionPage.xaml.cs">
+      <DependentUpon>SectionPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ItemPage.xaml.cs">
+      <DependentUpon>ItemPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VariableTemplate\VariableTileControl.cs" />
+    <Compile Include="VariableTemplate\VariableTiles.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <Content Include="DataModel\JewelryData.json" />
+    <None Include="EcommerceJewel.Windows_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\30pxLogo.png" />
+    <Content Include="Assets\50pxLogo.png" />
+    <Content Include="Assets\AppBarImages\BtmAppBar.png" />
+    <Content Include="Assets\AppBarImages\TopAppbar1.png" />
+    <Content Include="Assets\AppBarImages\TopAppbar2.png" />
+    <Content Include="Assets\AppBarImages\TopAppbar3.png" />
+    <Content Include="Assets\AppBarImages\TopAppbar4.png" />
+    <Content Include="Assets\AppBarImages\TopAppbar5.png" />
+    <Content Include="Assets\BigLiveTile1.jpg" />
+    <Content Include="Assets\BigLiveTile2.jpg" />
+    <Content Include="Assets\DarkGray.png" />
+    <Content Include="Assets\HubPageImages\Bg.jpg" />
+    <Content Include="Assets\HubPageImages\DollarIcon.jpg" />
+    <Content Include="Assets\HubPageImages\HubPageImage1.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage10.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage11.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage12.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage13.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage14.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage15.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage16.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage17.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage18.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage19.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage2.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage20.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage21.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage3.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage4.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage5.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage6.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage7.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage8.png" />
+    <Content Include="Assets\HubPageImages\HubPageImage9.png" />
+    <Content Include="Assets\HubPageImages\HubPageMainImage.png" />
+    <Content Include="Assets\HubPageImages\Logo.png" />
+    <Content Include="Assets\HubPageImages\RsIcon.png" />
+    <Content Include="Assets\ItemDetailPage\DetailImage1.png" />
+    <Content Include="Assets\ItemDetailPage\DetailImage2.png" />
+    <Content Include="Assets\ItemDetailPage\DetailImage3.png" />
+    <Content Include="Assets\ItemDetailPage\FvrIcon.png" />
+    <Content Include="Assets\ItemDetailPage\Shopping icon.png" />
+    <Content Include="Assets\LightGray.png" />
+    <Content Include="Assets\Logo.png" />
+    <Content Include="Assets\Logo.scale-100.png" />
+    <Content Include="Assets\MediumGray.png" />
+    <Content Include="Assets\NecklacesImages\feature.png" />
+    <Content Include="Assets\NecklacesImages\Necklace1.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace10.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace11.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace12.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace13.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace14.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace15.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace16.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace17.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace18.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace19.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace2.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace20.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace21.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace3.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace4.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace5.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace6.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace7.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace8.jpg" />
+    <Content Include="Assets\NecklacesImages\Necklace9.jpg" />
+    <Content Include="Assets\NecklacesImages\NecklacesImage1.png" />
+    <Content Include="Assets\NecklacesImages\NecklacesImage10.png" />
+    <Content Include="Assets\NecklacesImages\NecklacesImage2.png" />
+    <Content Include="Assets\NecklacesImages\NecklacesImage3.png" />
+    <Content Include="Assets\NecklacesImages\NecklacesImage4.png" />
+    <Content Include="Assets\NecklacesImages\NecklacesImage5.png" />
+    <Content Include="Assets\NecklacesImages\NecklacesImage6.png" />
+    <Content Include="Assets\NecklacesImages\NecklacesImage7.png" />
+    <Content Include="Assets\NecklacesImages\NecklacesImage8.png" />
+    <Content Include="Assets\NecklacesImages\NecklacesImage9.png" />
+    <Content Include="Assets\NecklacesImages\NecklacesImageBig.png" />
+    <Content Include="Assets\NecklacesImages\PartyNecklacesImage.png" />
+    <Content Include="Assets\RingImages\Ring1.jpg" />
+    <Content Include="Assets\RingImages\Ring10.jpg" />
+    <Content Include="Assets\RingImages\Ring11.jpg" />
+    <Content Include="Assets\RingImages\Ring12.jpg" />
+    <Content Include="Assets\RingImages\Ring13.jpg" />
+    <Content Include="Assets\RingImages\Ring14.jpg" />
+    <Content Include="Assets\RingImages\Ring15.jpg" />
+    <Content Include="Assets\RingImages\Ring16.jpg" />
+    <Content Include="Assets\RingImages\Ring17.jpg" />
+    <Content Include="Assets\RingImages\Ring18.jpg" />
+    <Content Include="Assets\RingImages\Ring19.jpg" />
+    <Content Include="Assets\RingImages\Ring2.jpg" />
+    <Content Include="Assets\RingImages\Ring20.jpg" />
+    <Content Include="Assets\RingImages\Ring21.jpg" />
+    <Content Include="Assets\RingImages\Ring3.jpg" />
+    <Content Include="Assets\RingImages\Ring4.jpg" />
+    <Content Include="Assets\RingImages\Ring5.jpg" />
+    <Content Include="Assets\RingImages\Ring6.jpg" />
+    <Content Include="Assets\RingImages\Ring7.jpg" />
+    <Content Include="Assets\RingImages\Ring8.jpg" />
+    <Content Include="Assets\RingImages\Ring9.jpg" />
+    <Content Include="Assets\SmallLiveTile1.jpg" />
+    <Content Include="Assets\SmallLiveTile2.jpg" />
+    <Content Include="Assets\SmallLogo.png" />
+    <Content Include="Assets\SmallLogo.scale-100.png" />
+    <Content Include="Assets\SplashScreen.png" />
+    <Content Include="Assets\SplashScreen.scale-100.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\WideLogo.png" />
+    <Content Include="Assets\WideLogo.scale-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="Common\StandardStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="HubPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyCartPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SectionPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ItemPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-EBJ3ABM</Machine>
+    <WindowsUser>cheche</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f83f06e0-6aca-4c01-9a79-9c8b525dfd87</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Kal</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\EcommerceJewel.Windows.exe">
+      <PackagePath>EcommerceJewel.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\DataModel\JewelryData.json">
+      <PackagePath>DataModel\JewelryData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\30pxLogo.png">
+      <PackagePath>Assets\30pxLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\50pxLogo.png">
+      <PackagePath>Assets\50pxLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\AppBarImages\BtmAppBar.png">
+      <PackagePath>Assets\AppBarImages\BtmAppBar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\AppBarImages\TopAppbar1.png">
+      <PackagePath>Assets\AppBarImages\TopAppbar1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\AppBarImages\TopAppbar2.png">
+      <PackagePath>Assets\AppBarImages\TopAppbar2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\AppBarImages\TopAppbar3.png">
+      <PackagePath>Assets\AppBarImages\TopAppbar3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\AppBarImages\TopAppbar4.png">
+      <PackagePath>Assets\AppBarImages\TopAppbar4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\AppBarImages\TopAppbar5.png">
+      <PackagePath>Assets\AppBarImages\TopAppbar5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage1.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage10.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage11.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage12.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage13.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage14.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage15.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage16.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage17.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage17.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage18.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage18.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage19.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage19.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage2.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage20.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage20.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage21.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage21.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage3.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage4.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage5.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage6.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage7.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage8.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageImage9.png">
+      <PackagePath>Assets\HubPageImages\HubPageImage9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\HubPageMainImage.png">
+      <PackagePath>Assets\HubPageImages\HubPageMainImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\Logo.png">
+      <PackagePath>Assets\HubPageImages\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\RsIcon.png">
+      <PackagePath>Assets\HubPageImages\RsIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\ItemDetailPage\DetailImage1.png">
+      <PackagePath>Assets\ItemDetailPage\DetailImage1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\ItemDetailPage\DetailImage2.png">
+      <PackagePath>Assets\ItemDetailPage\DetailImage2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\ItemDetailPage\DetailImage3.png">
+      <PackagePath>Assets\ItemDetailPage\DetailImage3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\ItemDetailPage\FvrIcon.png">
+      <PackagePath>Assets\ItemDetailPage\FvrIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\ItemDetailPage\Shopping icon.png">
+      <PackagePath>Assets\ItemDetailPage\Shopping icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\feature.png">
+      <PackagePath>Assets\NecklacesImages\feature.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\NecklacesImage1.png">
+      <PackagePath>Assets\NecklacesImages\NecklacesImage1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\NecklacesImage10.png">
+      <PackagePath>Assets\NecklacesImages\NecklacesImage10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\NecklacesImage2.png">
+      <PackagePath>Assets\NecklacesImages\NecklacesImage2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\NecklacesImage3.png">
+      <PackagePath>Assets\NecklacesImages\NecklacesImage3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\NecklacesImage4.png">
+      <PackagePath>Assets\NecklacesImages\NecklacesImage4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\NecklacesImage5.png">
+      <PackagePath>Assets\NecklacesImages\NecklacesImage5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\NecklacesImage6.png">
+      <PackagePath>Assets\NecklacesImages\NecklacesImage6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\NecklacesImage7.png">
+      <PackagePath>Assets\NecklacesImages\NecklacesImage7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\NecklacesImage8.png">
+      <PackagePath>Assets\NecklacesImages\NecklacesImage8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\NecklacesImage9.png">
+      <PackagePath>Assets\NecklacesImages\NecklacesImage9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\NecklacesImageBig.png">
+      <PackagePath>Assets\NecklacesImages\NecklacesImageBig.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\PartyNecklacesImage.png">
+      <PackagePath>Assets\NecklacesImages\PartyNecklacesImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\BigLiveTile1.jpg">
+      <PackagePath>Assets\BigLiveTile1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\BigLiveTile2.jpg">
+      <PackagePath>Assets\BigLiveTile2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\Bg.jpg">
+      <PackagePath>Assets\HubPageImages\Bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\HubPageImages\DollarIcon.jpg">
+      <PackagePath>Assets\HubPageImages\DollarIcon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace1.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace10.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace11.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace12.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace13.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace14.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace15.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace16.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace16.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace17.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace17.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace18.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace18.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace19.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace19.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace2.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace20.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace20.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace21.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace21.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace3.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace4.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace5.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace6.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace7.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace8.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\NecklacesImages\Necklace9.jpg">
+      <PackagePath>Assets\NecklacesImages\Necklace9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring1.jpg">
+      <PackagePath>Assets\RingImages\Ring1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring10.jpg">
+      <PackagePath>Assets\RingImages\Ring10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring11.jpg">
+      <PackagePath>Assets\RingImages\Ring11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring12.jpg">
+      <PackagePath>Assets\RingImages\Ring12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring13.jpg">
+      <PackagePath>Assets\RingImages\Ring13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring14.jpg">
+      <PackagePath>Assets\RingImages\Ring14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring15.jpg">
+      <PackagePath>Assets\RingImages\Ring15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring16.jpg">
+      <PackagePath>Assets\RingImages\Ring16.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring17.jpg">
+      <PackagePath>Assets\RingImages\Ring17.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring18.jpg">
+      <PackagePath>Assets\RingImages\Ring18.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring19.jpg">
+      <PackagePath>Assets\RingImages\Ring19.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring2.jpg">
+      <PackagePath>Assets\RingImages\Ring2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring20.jpg">
+      <PackagePath>Assets\RingImages\Ring20.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring21.jpg">
+      <PackagePath>Assets\RingImages\Ring21.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring3.jpg">
+      <PackagePath>Assets\RingImages\Ring3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring4.jpg">
+      <PackagePath>Assets\RingImages\Ring4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring5.jpg">
+      <PackagePath>Assets\RingImages\Ring5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring6.jpg">
+      <PackagePath>Assets\RingImages\Ring6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring7.jpg">
+      <PackagePath>Assets\RingImages\Ring7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring8.jpg">
+      <PackagePath>Assets\RingImages\Ring8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\RingImages\Ring9.jpg">
+      <PackagePath>Assets\RingImages\Ring9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\SmallLiveTile1.jpg">
+      <PackagePath>Assets\SmallLiveTile1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\Assets\SmallLiveTile2.jpg">
+      <PackagePath>Assets\SmallLiveTile2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\EcommerceJewel.Windows.xr.xml">
+      <PackagePath>EcommerceJewel.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\MyCartPage.xbf">
+      <PackagePath>MyCartPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

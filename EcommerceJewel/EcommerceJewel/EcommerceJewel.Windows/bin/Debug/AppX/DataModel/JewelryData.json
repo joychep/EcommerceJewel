@@ -1,0 +1,558 @@
+{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Type":  "Necklace",
+    "Title": "Party Necklaces",
+    "Subtitle": "Necklaces Group: 1",
+    "ImagePath": "Assets/DarkGray.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "NecklacesSmall-Group-1-Item-1",
+        "Title": "Necklace: 1",
+        "Subtitle": "550",
+        "ImagePath": "Assets/NecklacesImages/Necklace1.jpg",
+        "Description" : "Item Description: Description 1",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "NecklacesSmall-Group-1-Item-2",
+        "Title": "Necklace: 2",
+        "Subtitle": "400",
+        "ImagePath": "Assets/NecklacesImages/Necklace2.jpg",
+        "Description" : "Item Description: Description 2",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "NecklacesSmall-Group-1-Item-3",
+        "Title": "Necklace: 3",
+        "Subtitle": "350",
+        "ImagePath": "Assets/NecklacesImages/Necklace3.jpg",
+        "Description" : "Item Description: Description 3",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "NecklacesSmall-Group-1-Item-4",
+        "Title": "Necklace: 4",
+        "Subtitle": "390",
+        "ImagePath": "Assets/NecklacesImages/Necklace4.jpg",
+        "Description" : "Item Description: Description 4",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "NecklacesBig-Group-1-Item-5",
+        "Title": "Necklace: 5",
+        "Subtitle": "550",
+        "ImagePath": "Assets/NecklacesImages/Necklace5.jpg",
+        "Description" : "Item Description: Description 5",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "70",
+        "RowSpan": "70"
+      },
+      {
+        "UniqueId": "NecklacesSmall-Group-1-Item-6",
+        "Title": "Necklace: 6",
+        "Subtitle": "400",
+        "ImagePath": "Assets/NecklacesImages/Necklace6.jpg",
+        "Description" : "Item Description: Description 6",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-2",
+    "Type":  "Necklace",
+    "Title": "Casual Necklaces",
+    "Subtitle": "Necklaces Group: 2",
+    "ImagePath": "Assets/LightGray.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "NecklacesSmall-Group-2-Item-1",
+        "Title": "Necklace: 6",
+        "Subtitle": "550",
+        "ImagePath": "Assets/NecklacesImages/Necklace7.jpg",
+        "Description" : "Item Description: Description 1",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "NecklacesBig-Group-2-Item-2",
+        "Title": "Necklace: 7",
+        "Subtitle": "550",
+        "ImagePath": "Assets/NecklacesImages/Necklace8.jpg",
+        "Description" : "Item Description: Description 2",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "70",
+        "RowSpan": "70"
+      },
+      {
+        "UniqueId": "NecklacesSmall-Group-2-Item-3",
+        "Title": "Necklace: 8",
+        "Subtitle": "400",
+        "ImagePath": "Assets/NecklacesImages/Necklace9.jpg",
+        "Description" : "Item Description: Description 3",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "NecklacesSmall-Group-2-Item-4",
+        "Title": "Necklace: 9",
+        "Subtitle": "350",
+        "ImagePath": "Assets/NecklacesImages/Necklace10.jpg",
+        "Description" : "Item Description: Description 4",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "NecklacesSmall-Group-2-Item-5",
+        "Title": "Necklace: 10",
+        "Subtitle": "390",
+        "ImagePath": "Assets/NecklacesImages/Necklace11.jpg",
+        "Description" : "Item Description: Description 5",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "NecklacesSmall-Group-2-Item-6",
+        "Title": "Necklace: 11",
+        "Subtitle": "400",
+        "ImagePath": "Assets/NecklacesImages/Necklace12.jpg",
+        "Description" : "Item Description: Description 6",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      }
+    ]
+  },
+    {
+        "UniqueId": "Group-3",
+        "Type":  "Necklace",
+        "Title": "On Sale Necklaces",
+        "Subtitle": "Necklaces Group: 3",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description": "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+        "Items": [
+            {
+                "UniqueId": "NecklacesSmall-Group-3-Item-1",
+                "Title": "Necklace: 12",
+                "Subtitle": "550",
+                "ImagePath": "Assets/NecklacesImages/Necklace13.jpg",
+                "Description": "Item Description: Description 7",
+                "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+                "ColSpan": "35",
+                "RowSpan": "35"
+            },
+            {
+                "UniqueId": "NecklacesSmall-Group-3-Item-2",
+                "Title": "Necklace: 13",
+                "Subtitle": "400",
+                "ImagePath": "Assets/NecklacesImages/Necklace14.jpg",
+                "Description": "Item Description: Description 8",
+                "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+                "ColSpan": "35",
+                "RowSpan": "35"
+            },
+            {
+                "UniqueId": "NecklacesSmall-Group-3-Item-3",
+                "Title": "Necklace: 14",
+                "Subtitle": "400",
+                "ImagePath": "Assets/NecklacesImages/Necklace15.jpg",
+                "Description": "Item Description: Description 9",
+                "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+                "ColSpan": "35",
+                "RowSpan": "35"
+            },
+            {
+                "UniqueId": "NecklacesSmall-Group-3-Item-4",
+                "Title": "Necklace: 15",
+                "Subtitle": "550",
+                "ImagePath": "Assets/NecklacesImages/Necklace16.jpg",
+                "Description": "Item Description: Description 10",
+                "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+                "ColSpan": "35",
+                "RowSpan": "35"
+            },
+            {
+                "UniqueId": "NecklacesSmall-Group-3-Item-5",
+                "Title": "Necklace: 16",
+                "Subtitle": "350",
+                "ImagePath": "Assets/NecklacesImages/Necklace17.jpg",
+                "Description": "Item Description: Description 11",
+                "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+                "ColSpan": "35",
+                "RowSpan": "35"
+            },
+            {
+                "UniqueId": "NecklacesSmall-Group-3-Item-6",
+                "Title": "Necklace: 17",
+                "Subtitle": "390",
+                "ImagePath": "Assets/NecklacesImages/Necklace18.jpg",
+                "Description": "Item Description: Description 12",
+                "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+                "ColSpan": "35",
+                "RowSpan": "35"
+            },
+            {
+                "UniqueId": "NecklacesSmall-Group-3-Item-7",
+                "Title": "Necklace: 18",
+                "Subtitle": "390",
+                "ImagePath": "Assets/NecklacesImages/Necklace19.jpg",
+                "Description": "Item Description: Description 13",
+                "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+                "ColSpan": "35",
+                "RowSpan": "35"
+            },
+            {
+                "UniqueId": "NecklacesSmall-Group-3-Item-8",
+                "Title": "Necklace: 19",
+                "Subtitle": "390",
+                "ImagePath": "Assets/NecklacesImages/Necklace20.jpg",
+                "Description": "Item Description: Description 14",
+                "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+                "ColSpan": "35",
+                "RowSpan": "35"
+            },
+            {
+                "UniqueId": "NecklacesSmall-Group-3-Item-9",
+                "Title": "Necklace: 20",
+                "Subtitle": "390",
+                "ImagePath": "Assets/NecklacesImages/Necklace21.jpg",
+                "Description": "Item Description: Description 15",
+                "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+                "ColSpan": "35",
+                "RowSpan": "35"
+            }
+        ]
+    },
+     {
+    "UniqueId": "Group-4",
+    "Type":  "Ring",
+    "Title": "Party Rings",
+    "Subtitle": "Rings Group: 4",
+    "ImagePath": "Assets/DarkGray.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "RingsSmall-Group-4-Item-1",
+        "Title": "Ring: 1",
+        "Subtitle": "550",
+        "ImagePath": "Assets/RingImages/Ring1.jpg",
+        "Description" : "Item Description: Description 1",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-4-Item-2",
+        "Title": "Ring: 2",
+        "Subtitle": "400",
+        "ImagePath": "Assets/RingImages/Ring2.jpg",
+        "Description" : "Item Description: Description 2",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-4-Item-3",
+        "Title": "Ring: 3",
+        "Subtitle": "350",
+        "ImagePath": "Assets/RingImages/Ring3.jpg",
+        "Description" : "Item Description: Description 3",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-4-Item-4",
+        "Title": "Ring: 4",
+        "Subtitle": "390",
+        "ImagePath": "Assets/RingImages/Ring4.jpg",
+        "Description" : "Item Description: Description 4",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsBig-Group-4-Item-5",
+        "Title": "Ring: 5",
+        "Subtitle": "550",
+        "ImagePath": "Assets/RingImages/Ring5.jpg",
+        "Description" : "Item Description: Description 5",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "70",
+        "RowSpan": "70"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-4-Item-6",
+        "Title": "Ring: 6",
+        "Subtitle": "400",
+        "ImagePath": "Assets/RingImages/Ring6.jpg",
+        "Description" : "Item Description: Description 6",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-5",
+    "Type":  "Ring",
+    "Title": "Wedding Rings",
+    "Subtitle": "Rings Group: 5",
+    "ImagePath": "Assets/LightGray.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "RingsSmall-Group-5-Item-1",
+        "Title": "Ring: 7",
+        "Subtitle": "550",
+        "ImagePath": "Assets/RingImages/Ring7.jpg",
+        "Description" : "Item Description: Description 1",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsBig-Group-5-Item-2",
+        "Title": "Ring: 8",
+        "Subtitle": "550",
+        "ImagePath": "Assets/RingImages/Ring8.jpg",
+        "Description" : "Item Description: Description 2",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "70",
+        "RowSpan": "70"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-5-Item-3",
+        "Title": "Ring: 9",
+        "Subtitle": "400",
+        "ImagePath": "Assets/RingImages/Ring9.jpg",
+        "Description" : "Item Description: Description 3",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-5-Item-4",
+        "Title": "Ring: 10",
+        "Subtitle": "350",
+        "ImagePath": "Assets/RingImages/Ring10.jpg",
+        "Description" : "Item Description: Description 4",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-5-Item-5",
+        "Title": "Ring: 11",
+        "Subtitle": "390",
+        "ImagePath": "Assets/RingImages/Ring11.jpg",
+        "Description" : "Item Description: Description 5",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-5-Item-6",
+        "Title": "Ring: 12",
+        "Subtitle": "400",
+        "ImagePath": "Assets/RingImages/Ring12.jpg",
+        "Description" : "Item Description: Description 6",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-6",
+    "Type": "Ring",
+    "Title": "Casual Rings",
+    "Subtitle": "Rings Group: 3",
+    "ImagePath": "Assets/MediumGray.png",
+    "Description": "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items": [
+      {
+        "UniqueId": "RingsSmall-Group-6-Item-1",
+        "Title": "Ring: 13",
+        "Subtitle": "550",
+        "ImagePath": "Assets/RingImages/Ring13.jpg",
+        "Description": "Item Description: Description 7",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-6-Item-2",
+        "Title": "Ring: 14",
+        "Subtitle": "400",
+        "ImagePath": "Assets/RingImages/Ring14.jpg",
+        "Description": "Item Description: Description 8",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-6-Item-3",
+        "Title": "Ring: 15",
+        "Subtitle": "400",
+        "ImagePath": "Assets/RingImages/Ring15.jpg",
+        "Description": "Item Description: Description 9",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-6-Item-4",
+        "Title": "Ring: 16",
+        "Subtitle": "550",
+        "ImagePath": "Assets/RingImages/Ring16.jpg",
+        "Description": "Item Description: Description 10",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-6-Item-5",
+        "Title": "Ring: 17",
+        "Subtitle": "350",
+        "ImagePath": "Assets/RingImages/Ring17.jpg",
+        "Description": "Item Description: Description 11",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-6-Item-6",
+        "Title": "Ring: 18",
+        "Subtitle": "390",
+        "ImagePath": "Assets/RingImages/Ring18.jpg",
+        "Description": "Item Description: Description 12",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-6-Item-7",
+        "Title": "Ring: 19",
+        "Subtitle": "390",
+        "ImagePath": "Assets/RingImages/Ring19.jpg",
+        "Description": "Item Description: Description 13",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-6-Item-8",
+        "Title": "Ring: 20",
+        "Subtitle": "390",
+        "ImagePath": "Assets/RingImages/Ring20.jpg",
+        "Description": "Item Description: Description 14",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "RingsSmall-Group-6-Item-9",
+        "Title": "Ring: 21",
+        "Subtitle": "390",
+        "ImagePath": "Assets/RingImages/Ring21.jpg",
+        "Description": "Item Description: Description 15",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      }
+    ]
+  },
+{
+    "UniqueId": "Group-3",
+    "Type":  "Earring",
+    "Title": "Party Earrings",
+    "Subtitle": "Earringss Group: 1",
+    "ImagePath": "Assets/DarkGray.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "EarringsSmall-Group-3-Item-1",
+        "Title": "Earring: 1",
+        "Subtitle": "550",
+        "ImagePath": "Assets/NecklacesImages/Necklace1.jpg",
+        "Description" : "Item Description: Description 1",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "EarringsSmall-Group-3-Item-2",
+        "Title": "Earring: 2",
+        "Subtitle": "400",
+        "ImagePath": "Assets/NecklacesImages/Necklace2.jpg",
+        "Description" : "Item Description: Description 2",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "EarringsSmall-Group-3-Item-3",
+        "Title": "Earrings: 3",
+        "Subtitle": "350",
+        "ImagePath": "Assets/NecklacesImages/Necklace3.jpg",
+        "Description" : "Item Description: Description 3",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "EarringsSmall-Group-3-Item-4",
+        "Title": "Earring: 4",
+        "Subtitle": "390",
+        "ImagePath": "Assets/NecklacesImages/Necklace4.jpg",
+        "Description" : "Item Description: Description 4",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      },
+      {
+        "UniqueId": "EarringsBig-Group-3-Item-5",
+        "Title": "Earring: 5",
+        "Subtitle": "550",
+        "ImagePath": "Assets/NecklacesImages/Necklace5.jpg",
+        "Description" : "Item Description: Description 5",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "70",
+        "RowSpan": "70"
+      },
+      {
+        "UniqueId": "EarringsSmall-Group-3-Item-6",
+        "Title": "Earrings: 6",
+        "Subtitle": "400",
+        "ImagePath": "Assets/NecklacesImages/Necklace6.jpg",
+        "Description" : "Item Description: Description 6",
+        "Content": "This romantic sterling silver pendant features a stylish double heart design accented with a heat-treated pink Sapphire gemstone nestled inside the lower heart while sparkling Diamond accents adorn the top heart for a truly magical look.",
+        "ColSpan": "35",
+        "RowSpan": "35"
+      }
+    ]
+  }
+]
+}

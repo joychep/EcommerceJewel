@@ -1,0 +1,104 @@
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\HubPage.g.i.cs
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\HubPage.g.cs
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\MyCartPage.g.i.cs
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\MyCartPage.g.cs
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\SectionPage.g.i.cs
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\SectionPage.g.cs
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\ItemPage.g.i.cs
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\ItemPage.g.cs
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\HubPage.xaml
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\MyCartPage.xaml
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\SectionPage.xaml
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\ItemPage.xaml
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\Common\StandardStyles.xbf
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\HubPage.xbf
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\MyCartPage.xbf
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\SectionPage.xbf
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\ItemPage.xbf
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\App.g.i.cs
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\App.g.cs
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\App.xaml
+C:\Users\Kal\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\App.xbf
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\App.g.i.cs
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\App.g.cs
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\Common\StandardStyles.g.i.cs
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\Common\StandardStyles.g.cs
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\HubPage.g.i.cs
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\HubPage.g.cs
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\MyCartPage.g.i.cs
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\MyCartPage.g.cs
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\SectionPage.g.i.cs
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\SectionPage.g.cs
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\ItemPage.g.i.cs
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\ItemPage.g.cs
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\XamlTypeInfo.g.cs
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\App.xaml
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\Common\StandardStyles.xaml
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\HubPage.xaml
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\MyCartPage.xaml
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\SectionPage.xaml
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\ItemPage.xaml
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\App.xbf
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\Common\StandardStyles.xbf
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\HubPage.xbf
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\MyCartPage.xbf
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\SectionPage.xbf
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\ItemPage.xbf
+G:\OneDrive - Kal Academy\Documents\Projects\Codess\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\App.g.i.cs
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\App.g.cs
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\HubPage.g.i.cs
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\HubPage.g.cs
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\MyCartPage.g.i.cs
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\MyCartPage.g.cs
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\SectionPage.g.i.cs
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\SectionPage.g.cs
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\ItemPage.g.i.cs
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\ItemPage.g.cs
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\App.xaml
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\Common\StandardStyles.xaml
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\HubPage.xaml
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\MyCartPage.xaml
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\SectionPage.xaml
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\ItemPage.xaml
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\App.xbf
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\Common\StandardStyles.xbf
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\HubPage.xbf
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\MyCartPage.xbf
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\SectionPage.xbf
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\ItemPage.xbf
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\App.xbf
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\Common\StandardStyles.xbf
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\HubPage.xbf
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\MyCartPage.xbf
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\SectionPage.xbf
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\ItemPage.xbf
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\EcommerceJewel.Windows.xr.xml
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\EcommerceJewel.Windows.exe
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\EcommerceJewel.Windows.pdb
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\resources.pri
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\AppxManifest.xml
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\bin\Debug\EcommerceJewel.Windows.build.appxrecipe
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\EcommerceJewel.Windows.exe
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\EcommerceJewel.Windows.pdb
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\priconfig.xml
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\layout.resfiles
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\resources.resfiles
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\pri.resfiles
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\qualifiers.txt
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\cheche\Documents\Learning\Learning\InnovationLab\EcommerceJewel\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\obj\Debug\ProjectArchitectures.txt
